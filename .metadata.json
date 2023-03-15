@@ -1,10 +1,10 @@
 [
   {
-    "package": "apisensr",
+    "package": "episensr",
     "oncran": true
   },
   {
-    "package": "episensr",
+    "package": "apisensr",
     "oncran": true
   }
 ]

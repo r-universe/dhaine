@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "apisensr"]
-	path = apisensr
-	url = https://github.com/dhaine/apisensr
-	shallow = true
-	registered = true
 [submodule "episensr"]
 	path = episensr
 	url = https://github.com/dhaine/episensr
+	shallow = true
+	registered = true
+[submodule "apisensr"]
+	path = apisensr
+	url = https://github.com/dhaine/apisensr
 	shallow = true
 	registered = true
