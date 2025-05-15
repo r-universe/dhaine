@@ -5,6 +5,3 @@
 [submodule "apisensr"]
 	path = apisensr
 	url = https://github.com/dhaine/apisensr
-[submodule "episensr"]
-	path = episensr
-	url = https://github.com/dhaine/episensr
